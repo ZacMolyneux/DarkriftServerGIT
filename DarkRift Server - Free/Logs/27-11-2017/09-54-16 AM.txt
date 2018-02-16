@@ -1,0 +1,12 @@
+27-11-2017 09:54:16 AM	[Trace]	#### Server boot ####
+27-11-2017 09:54:16 AM	[Trace]	#### Server boot ####
+27-11-2017 09:54:16 AM	[Log]	Server mounted, listening on port 4296
+27-11-2017 09:54:16 AM	[Trace]	Found a total of 0 plugins.
+27-11-2017 09:55:03 AM	[Log]	Connected: 127.0.0.1:52075
+27-11-2017 09:55:09 AM	[Log]	Connected: 127.0.0.1:52086
+27-11-2017 09:55:18 AM	[Log]	Disconnected: 127.0.0.1:52075
+27-11-2017 09:55:21 AM	[Log]	Disconnected: 127.0.0.1:52086
+27-11-2017 09:55:47 AM	[Log]	Connected: 127.0.0.1:52100
+27-11-2017 09:55:51 AM	[Log]	Connected: 127.0.0.1:52109
+27-11-2017 09:56:16 AM	[Log]	Disconnected: 127.0.0.1:52100
+27-11-2017 09:56:18 AM	[Log]	Disconnected: 127.0.0.1:52109

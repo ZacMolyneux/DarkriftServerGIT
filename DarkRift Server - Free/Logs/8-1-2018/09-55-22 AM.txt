@@ -1,0 +1,24 @@
+8-1-2018 09:55:22 AM	[Trace]	#### Server boot ####
+8-1-2018 09:55:22 AM	[Trace]	#### Server boot ####
+8-1-2018 09:55:22 AM	[Log]	Server mounted, listening on port 4296
+8-1-2018 09:55:22 AM	[Trace]	Found a total of 0 plugins.
+8-1-2018 09:55:26 AM	[Log]	Connected: 127.0.0.1:61185
+8-1-2018 09:55:32 AM	[Log]	Connected: 127.0.0.1:61189
+8-1-2018 09:55:49 AM	[Log]	Disconnected: 127.0.0.1:61185
+8-1-2018 09:55:50 AM	[Log]	Disconnected: 127.0.0.1:61189
+8-1-2018 09:55:54 AM	[Log]	Connected: 127.0.0.1:61199
+8-1-2018 09:56:21 AM	[Log]	Connected: 127.0.0.1:61224
+8-1-2018 09:56:36 AM	[Log]	Disconnected: 127.0.0.1:61224
+8-1-2018 09:56:37 AM	[Log]	Disconnected: 127.0.0.1:61199
+8-1-2018 10:07:21 AM	[Log]	Connected: 127.0.0.1:61997
+8-1-2018 10:07:26 AM	[Log]	Connected: 127.0.0.1:62005
+8-1-2018 10:08:37 AM	[Log]	Disconnected: 127.0.0.1:61997
+8-1-2018 10:08:45 AM	[Log]	Disconnected: 127.0.0.1:62005
+8-1-2018 10:09:03 AM	[Log]	Connected: 127.0.0.1:62044
+8-1-2018 10:09:04 AM	[Log]	Connected: 127.0.0.1:62045
+8-1-2018 10:09:17 AM	[Log]	Disconnected: 127.0.0.1:62044
+8-1-2018 10:09:21 AM	[Log]	Disconnected: 127.0.0.1:62045
+8-1-2018 10:11:19 AM	[Log]	Connected: 127.0.0.1:62111
+8-1-2018 10:11:20 AM	[Log]	Connected: 127.0.0.1:62112
+8-1-2018 10:11:52 AM	[Log]	Disconnected: 127.0.0.1:62112
+8-1-2018 10:59:11 AM	[Log]	Disconnected: 127.0.0.1:62111
